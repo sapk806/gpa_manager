@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# SQLite database files
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE/editor files
+.vscode/
+.idea/
